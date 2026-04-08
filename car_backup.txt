@@ -1,0 +1,4 @@
+car count: 3, total fee: 35000, total cars: 1
+car id: 12345, plate: Example_plate_2, entry time: 7, exit time: -1
+car id: 13245, plate: Example_plate_3, entry time: 1, exit time: -1
+car id: 14235, plate: Example_plate_4, entry time: 9, exit time: -1
